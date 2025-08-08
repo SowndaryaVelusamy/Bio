@@ -1,0 +1,292 @@
+
+<!DOCTYPE html>
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+    <meta charset='utf-8'>
+    <title>Sowndarya V - GIS Solution Architect Resume</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotPromptForConvert/>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+        body {
+            font-family: 'Calibri', Arial, sans-serif;
+            line-height: 1.5;
+            color: #333;
+            font-size: 12pt;
+            margin: 0.6in;
+        }
+        .header {
+            background: #2c3e50;
+            color: white;
+            padding: 25px 30px;
+            text-align: center;
+            margin-bottom: 25px;
+            border-radius: 5px;
+        }
+        .name {
+            font-size: 28pt;
+            font-weight: 700;
+            margin-bottom: 8px;
+            letter-spacing: 1px;
+        }
+        .title {
+            font-size: 16pt;
+            font-weight: 300;
+            margin-bottom: 15px;
+        }
+        .section-title {
+            font-size: 16pt;
+            font-weight: 700;
+            color: #2c3e50;
+            border-bottom: 2px solid #2c3e50;
+            padding-bottom: 5px;
+            margin: 25px 0 15px 0;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .summary {
+            font-size: 12pt;
+            text-align: justify;
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+        .skills-grid {
+            display: table;
+            width: 100%;
+            table-layout: fixed;
+        }
+        .skills-grid > div {
+            display: table-cell;
+            vertical-align: top;
+            width: 50%;
+            padding: 0 10px;
+        }
+        .skill-category h4 {
+            color: #2c3e50;
+            font-weight: 600;
+            font-size: 13pt;
+            margin-bottom: 8px;
+        }
+        .skill-category p {
+            font-size: 11pt;
+            color: #555;
+            line-height: 1.5;
+            margin-bottom: 15px;
+        }
+        .job-title {
+            font-weight: 700;
+            color: #2c3e50;
+            font-size: 14pt;
+            margin-bottom: 3px;
+        }
+        .company {
+            font-weight: 600;
+            color: #666;
+            font-size: 12pt;
+            margin-bottom: 3px;
+        }
+        .duration {
+            color: #666;
+            font-size: 11pt;
+            font-style: italic;
+            margin-bottom: 10px;
+        }
+        .achievements li {
+            margin-bottom: 8px;
+            font-size: 11pt;
+            line-height: 1.5;
+        }
+        .solution-label {
+            font-weight: 600;
+            color: #2c3e50;
+        }
+        .page-break {
+            page-break-before: always;
+        }
+    </style>
+</head>
+<body>
+    <div class="resume-container">
+        <header class="header">
+            <h1 class="name">SOWNDARYA V</h1>
+            <p class="title">GIS Solution Architect &amp; Developer Analyst</p>
+            <div class="contact-info">
+                sowndaryav1604@gmail.com | +91 7418951464<br>
+                LinkedIn Profile | Tiruppur, Tamil Nadu, India
+            </div>
+        </header>
+
+        <section class="section">
+            <h2 class="section-title">Professional Summary</h2>
+            <p class="summary">
+                Results-driven GIS Solution Architect with 4+ years specializing in enterprise ESRI ecosystem implementation, smart city digital transformation, and municipal GIS solutions. Expert in ArcGIS Enterprise stack, spatial data management, and citizen engagement platforms. Proven track record in government GIS implementation, asset management systems, and cross-functional team collaboration. Strong background in technical requirements gathering, solution design, and GIS project lifecycle management with demonstrated improvements in operational efficiency by 30-50%. Experienced in leading digital transformation initiatives and implementing comprehensive municipal GIS ecosystems serving multiple government departments.
+            </p>
+        </section>
+
+        <section class="section">
+            <h2 class="section-title">Core Competencies</h2>
+            <div class="skills-grid">
+                <div>
+                    <div class="skill-category">
+                        <h4>ESRI Enterprise Stack</h4>
+                        <p>ArcGIS Pro, ArcGIS Online, ArcGIS Enterprise, Portal for ArcGIS, ArcGIS Server, Experience Builder, Scene Viewer, Web App Builder, Survey123 Connect, ArcGIS Dashboards, StoryMaps, ArcGIS CityEngine</p>
+                    </div>
+                    <div class="skill-category">
+                        <h4>Development &amp; Programming</h4>
+                        <p>JavaScript, Python, ArcPy, Arcade, ArcGIS Maps SDK for JavaScript, React JS, HTML5, CSS3, REST APIs, JSON, Custom Widget Development</p>
+                    </div>
+                    <div class="skill-category">
+                        <h4>Spatial Data Management</h4>
+                        <p>PostgreSQL/PostGIS, Enterprise Geodatabases, Hosted Feature Layers, Feature Services, Geometric Network Analysis, QGIS, Geoserver, Data Quality Assurance</p>
+                    </div>
+                </div>
+                <div>
+                    <div class="skill-category">
+                        <h4>Solution Architecture Expertise</h4>
+                        <p>Smart City Digital Twins, Municipal GIS Implementation, Asset Management Systems, Citizen Engagement Platforms, Government GIS Solutions, Workflow Automation, Business Process Integration</p>
+                    </div>
+                    <div class="skill-category">
+                        <h4>Project Management &amp; Leadership</h4>
+                        <p>Cross-functional Team Collaboration, Technical Requirements Gathering, Solution Design, GIS Project Lifecycle Management, Agile Methodologies, Pre-sales Technical Support</p>
+                    </div>
+                    <div class="skill-category">
+                        <h4>Integration &amp; Advanced Tools</h4>
+                        <p>MS Power Automate, Remote Sensing, SNAP, ERDAS Imagine, .NET C#, ETL Processes, HERE Maps API, OpenLayers, Survey123 Advanced Logic</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2 class="section-title">Professional Experience</h2>
+            
+            <div class="experience-item">
+                <div class="job-header">
+                    <div class="job-title">GIS Solution Architect &amp; Developer Analyst</div>
+                    <div class="company">UL Technology Solutions</div>
+                    <div class="duration">September 2023 - Present | Kozhikode, Kerala</div>
+                </div>
+                <ul class="achievements">
+                    <li><span class="solution-label">Smart City Digital Transformation:</span> Architected comprehensive municipal GIS ecosystem using ArcGIS Enterprise stack, serving 3+ government departments with centralized spatial data management via hosted feature layers and enterprise geodatabases. Led cross-functional teams in implementing digital transformation initiatives across municipal departments.</li>
+                    
+                    <li><span class="solution-label">Citizen Engagement Platform:</span> Designed and deployed interactive 2D/3D digital twin solutions using ESRI Scene Viewer, Experience Builder, and Web AppBuilder for Kerala smart city initiatives, enhancing stakeholder engagement by approximately 40% through immersive visualization and intuitive user interfaces.</li>
+                    
+                    <li><span class="solution-label">Municipal Asset Management System:</span> Implemented automated geospatial workflows with ArcPy Python scripting and performed geometric network analysis for municipal water systems, reducing processing time by approximately 50% through intelligent automation and custom geoprocessing tools.</li>
+                    
+                    <li><span class="solution-label">Government GIS Implementation:</span> Delivered enterprise-grade custom dashboards, dynamic pop-ups, and Arcade-enhanced web maps for real-time municipal insights, improving reporting efficiency by approximately 30% across multiple government departments through streamlined data visualization.</li>
+                    
+                    <li><span class="solution-label">Custom Development Solutions:</span> Developed specialized "Copy Attribute" widgets for Experience Builder and implemented feature editing capabilities in pop-ups using ArcGIS Maps SDK for JavaScript. Created custom geoprocessing tools to enhance user experience and streamline enterprise GIS application functionality.</li>
+                    
+                    <li><span class="solution-label">Field Data Collection Optimization:</span> Customized ArcGIS Survey123 forms using Survey123 Connect, enabling advanced logic implementation and optimized field data collection workflows for municipal field teams, ensuring data quality and consistency.</li>
+                    
+                    <li><span class="solution-label">Tourism &amp; Urban Planning Solutions:</span> Designed StoryMaps for Kollam Tourism to promote regional heritage and cultural tourism. Utilized ArcGIS CityEngine for floor-wise 3D building classification, supporting comprehensive urban planning and zoning analysis initiatives.</li>
+                    
+                    <li><span class="solution-label">Financial Management Integration:</span> Built comprehensive Property Tax Dashboard in ArcGIS Dashboards with automated violation notice generation for individual properties. Developed Performance Analysis Dashboard for Kerala Bank, integrating Street View functionality in pop-ups and conducting strategic bank relocation analysis for improved operational efficiency.</li>
+                    
+                    <li><span class="solution-label">Business Process Automation:</span> Implemented MS Power Automate workflows to trigger real-time email alerts when Survey123 forms were submitted or when new/updated features were added to the system, improving communication and response times between field teams and management.</li>
+                    
+                    <li><span class="solution-label">Technical Requirements &amp; Business Development:</span> Led technical requirements gathering sessions for pre-sales activities including tender mining, comprehensive scope analysis, solution architecture design, and technical documentation preparation to support business development efforts and competitive proposals.</li>
+                </ul>
+            </div>
+
+            <div class="page-break"></div>
+
+            <div class="experience-item">
+                <div class="job-header">
+                    <div class="job-title">GIS Data Analyst &amp; Application Developer</div>
+                    <div class="company">Redleaf Technologies</div>
+                    <div class="duration">August 2021 - September 2023</div>
+                </div>
+                <ul class="achievements">
+                    <li><span class="solution-label">Enterprise Data Management:</span> Managed comprehensive GIS data lifecycle using QGIS and ArcMap across multiple client projects, ensuring high-quality spatial data standards, accuracy validation, and maintaining data integrity throughout the project lifecycle management process.</li>
+                    
+                    <li><span class="solution-label">Workflow Automation &amp; Quality Assurance:</span> Developed sophisticated Python automation scripts with ArcPy to streamline data correction and quality assurance processes in complex geoprocessing workflows, reducing manual processing time by approximately 50% through intelligent automation and error detection mechanisms.</li>
+                    
+                    <li><span class="solution-label">Web Mapping Application Development:</span> Architected and built open-source web mapping applications using HERE Maps JavaScript API and modern web technologies, enhancing map interactivity by approximately 40% through responsive design and advanced user interface development.</li>
+                    
+                    <li><span class="solution-label">Custom Desktop GIS Solutions:</span> Created specialized ESRI Add-ins for ArcMap to extend desktop GIS functionality for client-specific workflows and business requirements. Contributed to .NET C# ETL desktop application development for complex data transformation and integration processes.</li>
+                    
+                    <li><span class="solution-label">Knowledge Management &amp; Documentation:</span> Established comprehensive workflow documentation and standard operating procedures supporting effective project knowledge transfer and operational consistency across development teams and client projects.</li>
+                    
+                    <li><span class="solution-label">Cross-functional Collaboration:</span> Collaborated effectively with cross-functional teams including business analysts, project managers, and client stakeholders to gather technical requirements and deliver customized GIS solutions meeting specific business objectives.</li>
+                </ul>
+            </div>
+
+            <div class="experience-item">
+                <div class="job-header">
+                    <div class="job-title">Geospatial Research Analyst</div>
+                    <div class="company">Indian Institute of Technology Bombay</div>
+                    <div class="duration">June 2020 - August 2020 | Mumbai, Maharashtra</div>
+                </div>
+                <ul class="achievements">
+                    <li><span class="solution-label">Environmental Planning Research:</span> Conducted comprehensive geospatial analysis of Mumbai metropolitan green space connectivity patterns spanning 2011-2019 using advanced GIS techniques and high-resolution satellite imagery analysis for environmental planning research.</li>
+                    
+                    <li><span class="solution-label">Urban Development Intelligence:</span> Contributed to sustainable urban development strategies through spatial intelligence analysis, supporting environmental planning initiatives and providing data-driven insights for metropolitan green infrastructure development.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2 class="section-title">Education</h2>
+            
+            <div class="education-item">
+                <div class="degree">Master of Engineering - Remote Sensing and Geomatics</div>
+                <div class="school">College of Engineering Guindy, Anna University</div>
+                <div class="education-details">
+                    August 2019 - May 2021 | Chennai, Tamil Nadu | CGPA: 8.05/10<br>
+                    <strong>Thesis Project:</strong> Above ground biomass estimation of trees using remote sensing within Anna University campus utilizing SAR images processed in SNAP and ERDAS Imagine with Support Vector Machine (SVM) classification techniques
+                </div>
+            </div>
+
+            <div class="education-item">
+                <div class="degree">Bachelor of Engineering - Civil Engineering</div>
+                <div class="school">Government College of Technology</div>
+                <div class="education-details">
+                    July 2014 - May 2018 | Coimbatore, Tamil Nadu | CGPA: 9.01/10<br>
+                    <strong>Final Year Project:</strong> Assessment of ground water quality around Vellalore landfill region using GIS and Artificial Neural Network (ANN) techniques combined with hydro-chemical analysis approaches
+                </div>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2 class="section-title">Key Achievements &amp; Recognition</h2>
+            <ul class="achievements-list">
+                <li><strong>IITB-ISRO-AICTE Mapathon 2020:</strong> Selected participant demonstrating advanced GIS development and spatial mapping skills in national-level competition</li>
+                
+                <li><strong>International Technical Training Program 2017:</strong> Government of Tamil Nadu sponsored technical training at Universiti Teknologi Petronas, Malaysia, focusing on advanced geospatial technologies</li>
+                
+                <li><strong>Enterprise Solution Delivery:</strong> Consistently delivered enterprise GIS solutions improving operational efficiency by 30-50% across government and private sector projects</li>
+                
+                <li><strong>Cross-functional Leadership:</strong> Successfully led cross-functional teams in smart city digital transformation projects, managing stakeholder requirements and technical implementation</li>
+                
+                <li><strong>Government GIS Expertise:</strong> Recognized specialist in government GIS implementation and municipal asset management systems with proven track record in Kerala state projects</li>
+                
+                <li><strong>Technical Innovation:</strong> Developed multiple custom GIS tools and widgets that have been adopted across enterprise applications, demonstrating innovation in solution architecture</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2 class="section-title">Languages</h2>
+            <div class="languages">
+                <strong>English:</strong> Professional working proficiency<br>
+                <strong>Tamil:</strong> Native speaker
+            </div>
+        </section>
+
+        <section class="section">
+            <h2 class="section-title">Professional Interests &amp; Continuous Learning</h2>
+            <div class="simple-list">
+                <strong>Technology &amp; Innovation:</strong> Artificial Intelligence and Machine Learning applications in GIS, Emerging geospatial technologies and industry trends<br><br>
+                <strong>Personal Interests:</strong> Interior design and space optimization, Sustainable gardening and urban agriculture, Environmental waste management and recycling solutions
+            </div>
+        </section>
+    </div>
+</body>
+</html>
