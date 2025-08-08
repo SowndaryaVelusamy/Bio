@@ -3,7 +3,7 @@
 <html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
 <head>
     <meta charset='utf-8'>
-    <title>Sowndarya V - GIS Solution Architect Resume</title>
+    <title>Sowndarya V - GIS Developer Analyst</title>
     <!--[if gte mso 9]>
     <xml>
         <w:WordDocument>
@@ -126,7 +126,7 @@
         <section class="section">
             <h2 class="section-title">Professional Summary</h2>
             <p class="summary">
-                Results-driven GIS Solution Architect with 4+ years specializing in enterprise ESRI ecosystem implementation, smart city digital transformation, and municipal GIS solutions. Expert in ArcGIS Enterprise stack, spatial data management, and citizen engagement platforms. Proven track record in government GIS implementation, asset management systems, and cross-functional team collaboration. Strong background in technical requirements gathering, solution design, and GIS project lifecycle management with demonstrated improvements in operational efficiency by 30-50%. Experienced in leading digital transformation initiatives and implementing comprehensive municipal GIS ecosystems serving multiple government departments.
+                Results-driven GIS Developer Analyst with 4+ years of expereince in geospatial development, smart city digital transformation, and municipal GIS solutions. Experienced in ArcGIS Enterprise stack, spatial data management, and client engagement platforms. Proven track record in government GIS implementation, asset management systems, and cross-functional team collaboration. Strong background in technical requirements gathering, solution design. Experienced in digital transformation initiatives and implementing comprehensive municipal GIS ecosystems serving multiple government departments.
             </p>
         </section>
 
@@ -135,7 +135,7 @@
             <div class="skills-grid">
                 <div>
                     <div class="skill-category">
-                        <h4>ESRI Enterprise Stack</h4>
+                        <h4>ESRI Technologies</h4>
                         <p>ArcGIS Pro, ArcGIS Online, ArcGIS Enterprise, Portal for ArcGIS, ArcGIS Server, Experience Builder, Scene Viewer, Web App Builder, Survey123 Connect, ArcGIS Dashboards, StoryMaps, ArcGIS CityEngine</p>
                     </div>
                     <div class="skill-category">
@@ -150,7 +150,7 @@
                 <div>
                     <div class="skill-category">
                         <h4>Solution Architecture Expertise</h4>
-                        <p>Smart City Digital Twins, Municipal GIS Implementation, Asset Management Systems, Citizen Engagement Platforms, Government GIS Solutions, Workflow Automation, Business Process Integration</p>
+                        <p>Smart City Digital Twins, Municipal GIS Implementation, Asset Management Systems, Government GIS Solutions, Workflow Automation, Business Process Integration</p>
                     </div>
                     <div class="skill-category">
                         <h4>Project Management &amp; Leadership</h4>
@@ -169,7 +169,7 @@
             
             <div class="experience-item">
                 <div class="job-header">
-                    <div class="job-title">GIS Solution Architect &amp; Developer Analyst</div>
+                    <div class="job-title">Developer Analyst</div>
                     <div class="company">UL Technology Solutions</div>
                     <div class="duration">September 2023 - Present | Kozhikode, Kerala</div>
                 </div>
@@ -200,12 +200,12 @@
 
             <div class="experience-item">
                 <div class="job-header">
-                    <div class="job-title">GIS Data Analyst &amp; Application Developer</div>
+                    <div class="job-title">Master Engineering Trainee</div>
                     <div class="company">Redleaf Technologies</div>
                     <div class="duration">August 2021 - September 2023</div>
                 </div>
                 <ul class="achievements">
-                    <li><span class="solution-label">Enterprise Data Management:</span> Managed comprehensive GIS data lifecycle using QGIS and ArcMap across multiple client projects, ensuring high-quality spatial data standards, accuracy validation, and maintaining data integrity throughout the project lifecycle management process.</li>
+                    <li><span class="solution-label">Spatial Data Management:</span> Managed comprehensive GIS data lifecycle using QGIS and ArcMap across multiple client projects, ensuring high-quality spatial data standards, accuracy validation, and maintaining data integrity throughout the project lifecycle management process.</li>
                     
                     <li><span class="solution-label">Workflow Automation &amp; Quality Assurance:</span> Developed sophisticated Python automation scripts with ArcPy to streamline data correction and quality assurance processes in complex geoprocessing workflows, reducing manual processing time by approximately 50% through intelligent automation and error detection mechanisms.</li>
                     
@@ -228,7 +228,7 @@
                 <ul class="achievements">
                     <li><span class="solution-label">Environmental Planning Research:</span> Conducted comprehensive geospatial analysis of Mumbai metropolitan green space connectivity patterns spanning 2011-2019 using advanced GIS techniques and high-resolution satellite imagery analysis for environmental planning research.</li>
                     
-                    <li><span class="solution-label">Urban Development Intelligence:</span> Contributed to sustainable urban development strategies through spatial intelligence analysis, supporting environmental planning initiatives and providing data-driven insights for metropolitan green infrastructure development.</li>
+                    <li><span class="solution-label">Urban Development:</span> Contributed to sustainable urban development strategies through spatial intelligence analysis, supporting environmental planning initiatives and providing data-driven insights for metropolitan green infrastructure development.</li>
                 </ul>
             </div>
         </section>
@@ -256,19 +256,12 @@
         </section>
 
         <section class="section">
-            <h2 class="section-title">Key Achievements &amp; Recognition</h2>
+            <h2 class="section-title">Key Achievements</h2>
             <ul class="achievements-list">
                 <li><strong>IITB-ISRO-AICTE Mapathon 2020:</strong> Selected participant demonstrating advanced GIS development and spatial mapping skills in national-level competition</li>
                 
                 <li><strong>International Technical Training Program 2017:</strong> Government of Tamil Nadu sponsored technical training at Universiti Teknologi Petronas, Malaysia, focusing on advanced geospatial technologies</li>
                 
-                <li><strong>Enterprise Solution Delivery:</strong> Consistently delivered enterprise GIS solutions improving operational efficiency by 30-50% across government and private sector projects</li>
-                
-                <li><strong>Cross-functional Leadership:</strong> Successfully led cross-functional teams in smart city digital transformation projects, managing stakeholder requirements and technical implementation</li>
-                
-                <li><strong>Government GIS Expertise:</strong> Recognized specialist in government GIS implementation and municipal asset management systems with proven track record in Kerala state projects</li>
-                
-                <li><strong>Technical Innovation:</strong> Developed multiple custom GIS tools and widgets that have been adopted across enterprise applications, demonstrating innovation in solution architecture</li>
             </ul>
         </section>
 
@@ -283,8 +276,8 @@
         <section class="section">
             <h2 class="section-title">Professional Interests &amp; Continuous Learning</h2>
             <div class="simple-list">
-                <strong>Technology &amp; Innovation:</strong> Artificial Intelligence and Machine Learning applications in GIS, Emerging geospatial technologies and industry trends<br><br>
-                <strong>Personal Interests:</strong> Interior design and space optimization, Sustainable gardening and urban agriculture, Environmental waste management and recycling solutions
+                <strong>Technology &amp; Innovation:</strong> Artificial Intelligence, Emerging geospatial technologies and industry trends<br><br>
+                <strong>Personal Interests:</strong> Interior design and space optimization, Sustainable gardening, Household waste management and recycling solutions.
             </div>
         </section>
     </div>
